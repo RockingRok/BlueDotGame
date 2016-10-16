@@ -10,8 +10,8 @@ By [Mikalai Shlapkou](https://github.com/RockingRok)
   - Animation and program flow, as well as events in JavaScript.
 
 ## To Play
-  - Clone or download the [**_Circle The Blue Dot_**](https://github.com/RockingRok/BlueDotGame) and open the index.html file which is located under app/index.html.
-  - Play the game on Dropbox (Coming Soon).
+  - Clone or download [**_Circle The Blue Dot_**](https://github.com/RockingRok/BlueDotGame) and open the index.html file which is located under app/index.html.
+  - Play the game online (Coming Soon).
 
 ## Code Writer
 - [Mikalai Shlapkou](https://github.com/RockingRok)
