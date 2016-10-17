@@ -11,7 +11,7 @@ By [Mikalai Shlapkou](https://github.com/RockingRok)
 
 ## To Play
   - Clone or download [**_Circle The Blue Dot_**](https://github.com/RockingRok/BlueDotGame) and open the index.html file which is located under app/index.html.
-  - Play the game online (Coming Soon).
+  - Play the [**_game_**](https://rockingrok.github.io/) online.
 
 ## Code Writer
 - [Mikalai Shlapkou](https://github.com/RockingRok)
