@@ -1,7 +1,7 @@
 # Circle The Blue Dot
 By [Mikalai Shlapkou](https://github.com/RockingRok)
 
-[**_Circle The Blue Dot_**](https://github.com/RockingRok/BlueDotGame) is a personal project which I have worked on for the duration of Summer 2016. This project has helped me learn a lot of new things about coding in Java and using new programs:
+[**_Circle The Blue Dot_**](https://github.com/RockingRok/BlueDotGame) is a personal project which I have worked on for the past few months involving JavaScript. This project has helped me learn a lot of new things about coding in Java and using new programs:
 
   - Using AngularJS and JavaScript.
   - Working with 1D and 2D arrays in order to help me generate the board and help the game flow.
