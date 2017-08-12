@@ -5,7 +5,7 @@ By [Mikalai Shlapkou](https://github.com/RockingRok)
 
   - Using AngularJS, JavaScript, HTML, and CSS.
   - Working with various data structures and coming up with several custom objects in order to come up with an elegant solution.
-  - Learning the [**_BFS (Breadth-First Search_**](https://en.wikipedia.org/wiki/Breadth-first_search) algorithm from scratch and modifying it to help forge a path for the blue dot to follow.
+  - Learning the [**_BFS (Breadth-First Search)_**](https://en.wikipedia.org/wiki/Breadth-first_search) algorithm from scratch and modifying it to help forge a path for the blue dot to follow.
   - Animation in CSS and JavaScript as well as learning how to work with asynchronous events interaction with AngularJS.
 
 ## To Play
