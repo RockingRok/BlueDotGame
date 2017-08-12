@@ -1,13 +1,12 @@
 # Circle The Blue Dot
 By [Mikalai Shlapkou](https://github.com/RockingRok)
 
-[**_Circle The Blue Dot_**](https://github.com/RockingRok/BlueDotGame) is a personal project which I have worked on for the past few months involving JavaScript. This project has helped me learn a lot of new things about coding in Java and using new programs:
+[**_Circle The Blue Dot_**](https://github.com/RockingRok/BlueDotGame) is a personal project which I have worked on which involved JavaScript, HTML, and CSS. This project has helped me also learn the Angular framework and learn new technologies:
 
-  - Using AngularJS and JavaScript.
-  - Working with 1D and 2D arrays in order to help me generate the board and help the game flow.
-  - Using the [**_BFS (Breadth-First Search_**](https://en.wikipedia.org/wiki/Breadth-first_search) algorithm in order to help me find the closest way out of the maze.
-  - Applying the queue and Point objects in order to help me facilitate finding the right path and the next move.
-  - Animation and program flow, as well as events in JavaScript.
+  - Using AngularJS, JavaScript, HTML, and CSS.
+  - Working with various data structures and coming up with several custom objects in order to come up with an elegant solution.
+  - Learning the [**_BFS (Breadth-First Search_**](https://en.wikipedia.org/wiki/Breadth-first_search) algorithm from scratch and modifying it to help forge a path for the blue dot to follow.
+  - Animation in CSS and JavaScript as well as learning how to work with asynchronous events interaction with AngularJS.
 
 ## To Play
   - Clone or download [**_Circle The Blue Dot_**](https://github.com/RockingRok/BlueDotGame) and open the index.html file which is located under app/index.html.
