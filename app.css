@@ -1,0 +1,47 @@
+/* app css stylesheet */
+
+body {
+  background: black;
+}
+
+.game_container {
+    background: white;
+    border: 12px solid grey;
+    border-radius: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    width: 45%;
+}
+
+#animation_circle {
+    position: absolute;
+    z-index: 1;
+    transition: .2s;
+}
+
+.steps {
+    position: relative;
+    left: 2%;
+    font-size: 1.5vw;
+}
+.console {
+    position: relative;
+    left: 20%;
+    font-size: 1.5vw;
+}
+
+.refresh {
+    position: absolute;
+    right: 2%;
+    top: 96%;
+    width: 4%;
+    height: 4%;
+    -webkit-transition: -webkit-transform .3s ease-in-out;
+            transition:         transform .3s ease-in-out;
+}
+
+.refresh:hover {
+    -webkit-transform: rotate(-360deg);
+	    transform: rotate(-360deg);
+}

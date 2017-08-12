@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+  <title>Circle The Blue Dot</title>
+  <link rel="stylesheet" href="app.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-animate.js"></script> 
+  <script src="app.js"></script>
+  <script src="scripts/controllers/gameBoardController.js"></script>
+</head>
+<body ng-app = "CircleTheBlueDot">
+  <div class="game_container" ng-controller="GameBoardController">
+    <div class = "game_board">
+      <img id = "animation_circle" ng-show = "animation" ng-src = "images/blue_circle.png">
+      <div ng-repeat = "row in game_board" >
+          <img ng-repeat = "col in row[1] track by $index" id = "{{'circle_' + row[0] + $index}}" ng-click = "circleClicked(row[0], $index)" ng-src = "{{'images/' + row[1][$index] + '_circle.png'}}" height="10.55%" width="10.55%" ng-style="row[0] % 2 == 1 ? {'position':'relative', 'left':'5%'} : {'position':'relative', 'left':'0%'}">
+      </div>
+    </div>
+    <hr>
+    <div class = "player_options">
+	<span class = "steps"> Steps taken: {{steps}} </span>
+	<span class = "console"> {{console}}</span>
+	<img class = "refresh" onClick = "window.location.reload()" ng-src = "images/refresh.png">
+    </div>
+  </div>
+</body>
+</html>
